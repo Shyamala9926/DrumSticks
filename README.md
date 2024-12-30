@@ -1,3 +1,3 @@
 # Drums-Sticks
-by using HTML, CSS, Javascript
+by using HTML, CSS, Javascript.
 ## Description
